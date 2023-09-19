@@ -8,15 +8,15 @@ This application simplifies the process of collecting and managing user messages
 
 ## Table Of Contents
 
-- [Installation](https://github.com/abhisheksingh-17/PDF-ChatBot/tree/main#installation)
- - [Usage](https://github.com/abhisheksingh-17/PDF-ChatBot/tree/main#usage)
- - [Acknowledgements](https://github.com/abhisheksingh-17/PDF-ChatBot/tree/main#acknowledgements)
- - [Technologies Used](https://github.com/abhisheksingh-17/PDF-ChatBot/tree/main#technologies-used)
- - [Code Description](https://github.com/abhisheksingh-17/PDF-ChatBot/tree/main#code-description)
- - [Screenshots](https://github.com/abhisheksingh-17/PDF-ChatBot/tree/main#screenshots)
- - [Future Scope](https://github.com/abhisheksingh-17/PDF-ChatBot/tree/main#future-scope)
- - [Contributing](https://github.com/abhisheksingh-17/PDF-ChatBot/tree/main#contributing)
- - [License](https://github.com/abhisheksingh-17/PDF-ChatBot/tree/main#license)
+- [Installation](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/README.md#installation)
+ - [Usage](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/README.md#usage)
+ - [Acknowledgements](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/README.md#acknowledgements)
+ - [Technologies Used](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/README.md#technologies-used)
+ - [Code Description](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/README.md#code-description)
+ - [Screenshots](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/README.md#screenshots)
+ - [Future Scope](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/README.md#future-scope)
+ - [Contributing](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/README.md#contributing)
+ - [License](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/README.md#license)
 
 ## Installation
 
@@ -210,8 +210,11 @@ if (isset($_POST['submit'])) {
 This code snippet handles the submission of the contact form, securely inserts the data into the database, and provides feedback to the user.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Contact Us Form](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/1.png?raw=true)
 
+![](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/2.png?raw=true)
+
+![Thank You Page](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/3.png?raw=true)
 
 ## Future Scope
 
