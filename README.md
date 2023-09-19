@@ -210,11 +210,11 @@ if (isset($_POST['submit'])) {
 This code snippet handles the submission of the contact form, securely inserts the data into the database, and provides feedback to the user.
 ## Screenshots
 
-![Contact Us Form](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/1.png?raw=true)
+![Contact Us Form](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/Results/1.png?raw=true)
 
-![](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/2.png?raw=true)
+![](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/Results/2.png?raw=true)
 
-![Thank You Page](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/3.png?raw=true)
+![Thank You Page](https://github.com/abhisheksingh-17/Contact-Us-Section/blob/main/Results/3.png?raw=true)
 
 ## Future Scope
 
