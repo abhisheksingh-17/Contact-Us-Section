@@ -24,12 +24,25 @@ To set up and run the Contact Us Form web application, follow these steps:
 
 1.Clone the Repository:
 
-Clone this repository to your local development environment using the following command:
+ - Clone this repository to your local development environment using the following command:
 
 ```bash
   git clone https://github.com/abhisheksingh-17/Landing-Page-Section.git
 
 ```
+
+ - Once the cloning process is complete, you'll have a local copy of the project.
+
+ - Navigate to the Project Folder:
+
+ - Change your working directory to the "Contact Us Section" folder within the "Landing Page Section" repository:
+
+```bash
+cd "Landing-Page-Section-Main/Contact Us Section"
+```
+
+ - Open the Project: Use your preferred code editor to open the project files.
+
 2.Database Setup:
 
  - Create a MySQL database (if you haven't already) using a database management tool or the command line.
