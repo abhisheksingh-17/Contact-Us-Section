@@ -47,3 +47,21 @@ body, html {
     font-size: 16px;
     color: #666;
 }
+
+/* Style the home button */
+.home-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #3e2093; /* Button background color */
+    color: #fff; /* Button text color */
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover effect for the home button */
+.home-button:hover {
+    background-color: #5029bc; /* Darker background color on hover */
+}
